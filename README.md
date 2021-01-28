@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 * :tea: > :coffee: (but I drink both)
 
 dog tax: 
-![my pup!](https://raw.githubusercontent.com/mseto28/mseto28/main/Screen%20Shot%202020-11-18%20at%205.59.37%20PM.png =400x)
+![my pup!](./buttons_smile.png =400x)
 
 
