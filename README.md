@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 * Food is my life :fries::sushi::pizza::curry:
 * :tea: > :coffee: (but I drink both)
 
-![](https://raw.githubusercontent.com/mseto28/mseto28/main/buttons_smile.png)
+![](https://raw.githubusercontent.com/mseto28/mseto28/main/buttons_smile.png =400x)
 
 
