@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 * Food is my life :fries::sushi::pizza::curry:
 * :tea: > :coffee: (but I drink both)
 
-dog tax: 
-![my pup!](./buttons_smile.png =400x)
+![](./buttons_smile.png =400x)
 
 
