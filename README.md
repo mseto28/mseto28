@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### My name is Mabel :eyeglasses:
+
+* Pronouns: she | her | hers
+* I'm a graduate student at Vanderbilt University.
+* UIUC alum : MCB and Chemistry, Class of 2015
+
