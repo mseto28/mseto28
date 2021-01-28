@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 * :tea: > :coffee: (but I drink both)
 
 
-paying the dog tax:
+#### paying the dog tax :dollar::
 <br>
 <img src="https://raw.githubusercontent.com/mseto28/mseto28/main/buttons_smile.png" width="300">
 
