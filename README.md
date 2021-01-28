@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 
 paying the dog tax:
+<br>
 <img src="https://raw.githubusercontent.com/mseto28/mseto28/main/buttons_smile.png" width="300">
 
 
