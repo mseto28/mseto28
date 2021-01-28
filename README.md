@@ -21,3 +21,22 @@ Here are some ideas to get you started:
 * I'm a graduate student at Vanderbilt University.
 * UIUC alum : MCB and Chemistry, Class of 2015
 
+
+#### I'm currently learning :books:
+
+* Python
+* LaTeX
+* Japanese
+* Knitting
+
+
+#### Fun Stuff :tada::circus_tent:
+
+* I have a :dog: named Buttons
+* Food is my life :fries::sushi::pizza::curry:
+* :tea: > :coffee: (but I drink both)
+
+dog tax: 
+![my pup!](/nfs/setom/VMAC_python_workshop/mseto28/Screen Shot 2020-11-18 at 5.59.37 PM.png)
+
+
