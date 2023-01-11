@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 #### My name is Mabel :eyeglasses:
 
 * Pronouns: she | her | hers
-* I'm a graduate student at Vanderbilt University.
+* I'm a postdoctoral fellow at Brigham and Women's Hospital.
 * UIUC alum : MCB and Chemistry, Class of 2015
+* Vanderbilt alum: IGP/Pharmacology, Class of 2022
 
 
 #### I'm currently learning :books:
